@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno":"Torres",
+            "apellido_materno":"Urbano",
+            "nombre":"Tommy Jonathan",
+            "username":"ttorres",
+            "password":"1f32aa4c9a1d2ea010adcf2348166a04"
+        },
+        {
+            "id":2,
+            "apellido_paterno":"Torres",
+            "apellido_materno":"Urbano",
+            "nombre":"polo",
+            "username":"ptorres",
+            "password":"5cb45b85e3aa6ae16ac66e57377299c8"
+        }
+    ]
+}
